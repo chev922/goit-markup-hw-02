@@ -56,7 +56,8 @@ button {
 .menu-link:hover,
 .menu-link:focus,
 .menu-address-link:hover,
-.menu-address-link:active {
+.menu-address-link:active,
+.menu-address-link:focus {
     color: #404BBF;
 }
 
@@ -125,6 +126,7 @@ button {
     text-align: center;
     letter-spacing: 0.02em;
     text-transform: capitalize;
+    color: #2e2f42;
 }
 
 .bottom {
